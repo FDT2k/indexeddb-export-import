@@ -1,5 +1,5 @@
 {
-  "name": "indexeddb-export-import",
+  "name": "@karsegard/indexeddb-export-import",
   "version": "2.1.2",
   "description": "Export/import an IndexedDB database to/from JSON ",
   "main": "index.js",
